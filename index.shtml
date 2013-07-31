@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include virtual="head.shtml" -->
+<body>
+<a id="top"></a>
+<div id="wrapper">
+    <div id="logo" class="container">
+        <h1><a href="#">Computational and Theoretical Neuroscience Group</a></h1>
+        <p><center><h2><a href="http://www.utexas.edu/">University of Texas at Austin</a></h2></center>
+		</p>
+    </div>
+    <div id="menu-wrapper">
+        <div id="menu" class="container">
+            <ul>
+                <li class="current_page_item"><a href="index.shtml">Home</a></li>
+                <li><a href="faculty.shtml">Faculty</a></li>
+                <li><a href="publications.shtml">Publications</a></li>
+                <li><a href="contacts.shtml">Contacts</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="three-column" class="container">
+        <div id="tbox1">
+            <a href="#section1">
+            <div class="box-style box-style01">
+                <div class="content">
+                    <div class="image"><img src="images/img07.jpg" width="324" height="150" alt="" /></div>
+                    <h2>Overview</h2>
+                </div>
+            </div>
+            </a>
+        </div>
+        <div id="tbox2">
+            <a href="#section2">
+            <div class="box-style box-style02">
+                <div class="content">
+                    <div class="image"><img src="images/img04.jpg" width="324" height="150" alt="" /></div>
+                    <h2>Graduate Student Information</h2>
+                </div>
+            </div>
+            </a>
+        </div>
+        <div id="tbox3">
+            <a href="#section3">
+            <div class="box-style box-style03">
+                <div class="content">
+                    <div class="image"><img src="images/img06.jpg" width="324" height="150" alt="" /></div>
+                    <h2>Undergraduate Information</h2>
+                </div>
+            </div>
+            </a>
+        </div>
+    </div>
+    <div id="page" class="container">
+        <div id="content">
+            <div class="post">
+                <h2 class="title">
+                <a id="section1">Overview</a>
+                <a href="#top"><img src="back_to_top.png"/></a></h2>
+                <div class="entry">
+                    <p>
+					The <a href="http://www.utexas.edu/">University of Texas at Austin</a> provides a unique
+					opportunity for graduate and post-graduate training in
+					computational and theoretical neuroscience.  The
+					Computational and Theoretical Neuroscience Group comprises
+					faculty focusing on computational modeling, experiments, and
+					theory.
+                    </p>
+					<p>
+					Our philosophy is that progress in understanding neural
+					computation depends on a tight link between theory and
+					quantitative experimental measurements.  Members of the the
+					Computational and Theoretical Neuroscience Group are
+					immersed in a vibrant interdisciplinary environment.
+					Experiment-theory collaborations here span the range from
+					molecular to circuit to cognitive neuroscience.
+                    </p>
+                </div>
+                <h2 class="title">
+                <a id="section2">Graduate Student Information</a>
+                <a href="#top"><img src="back_to_top.png"/></a></h2>
+                </h2>
+                <div class="entry">
+					<p>
+					Relevant courses offered now or in general
+
+					<p>
+					To apply to computational neuroscience at UT, apply directly to affiliated department:
+					<ul>
+					<li><a href="http://neuroscience.utexas.edu/apply/index.php">Neuroscience Graduate Program</a>
+					<li><a href="http://www.cs.utexas.edu/academics/graduate/">Computer Science</a>
+					<li><a href="http://www.psy.utexas.edu/psy/gradprogram/gradhome.html">Psychology</a>
+					</ul>
+
+					<p>
+					<a href="http://www.utexas.edu/ogs/pdn/">UT forms and Deadlines</a>
+
+					<p>
+					Faculty cannot directly admit but if especially interested in a group, by all means get in touch.
+                    </p>
+                </div>
+                <h2 class="title">
+                <a id="section3">Undergraduate Student Information</a>
+                <a href="#top"><img src="back_to_top.png"/></a></h2>
+                </h2>
+                <div class="entry">
+					<p>
+					Class suggestions
+
+					<p>
+					Check out new (revamped) neuroscience major at UT Austin
+
+					<p>
+					Example list of courses a major would take to be well-prepared
+                    </p>
+                </div>
+            </div>
+            <div style="clear: both;">&nbsp;</div>
+        </div>
+        <!-- end #content -->
+        <!-- end #sidebar -->
+        <div style="clear: both;">&nbsp;</div>
+    </div>
+    <!-- end #page -->
+</div>
+<!--#include virtual="footer-bg.shtml" -->
+<!--#include virtual="footer.shtml" -->
+</body>
+</html>

@@ -1,0 +1,31 @@
+<div id="footer-bg">
+	<div id="footer-content" class="container">
+		<div id="column1">
+			<h2>Departments / Centers</h2>
+			<ul class="list-style2">
+				<li><a href="http://www.psy.utexas.edu/">UT Psychology</a></li>
+				<li><a href="http://www.cps.utexas.edu/Research/index.html">Center for Perceptual Systems</a></li>
+				<li><a href="http://neuroscience.utexas.edu/">Institute for Neuroscience</a></li>
+				<li><a href="http://clm.utexas.edu/">Center for Learning and Memory</a></li>
+			</ul>
+		</div>
+		<div id="column2">
+			<h2>Labs</h2>
+			<ul class="list-style2">
+				<li class="first"><a href="http://motion.cps.utexas.edu/">Another Lab 1</a></li>
+				<li><a href="http://pillowlab.cps.utexas.edu">Another Lab 2</a></li>
+			</ul>
+		</div>
+		<div id="column3">
+			<h2>Links</h2>
+			<ul class="list-style2">
+				<li class="first">
+				<a href="http://clm.utexas.edu/~compjc/">Theoretical Computational and Neuroscience Journal club</a>
+				</li>
+				<li>
+				<a href="http://neuroscience.utexas.edu/calendar/index.php">Seminars</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

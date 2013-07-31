@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--#include virtual="head.shtml" -->
+<body>
+<div id="wrapper">
+	<div id="logo" class="container">
+		<h1><a href="#">Computational and Theoretical Neuroscience Group</a></h1>
+        <p><center><h2><a href="http://www.utexas.edu/">University of Texas at Austin</a></h2></center>
+	</div>
+	<div id="menu-wrapper">
+		<div id="menu" class="container">
+			<ul>
+				<li><a href="index.shtml">Home</a></li>
+				<li class="current_page_item"><a href="faculty.shtml">Faculty</a></li>
+				<li><a href="publications.shtml">Publications</a></li>
+				<li><a href="contacts.shtml">Contacts</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">Faculty</a></h2>
+				<div class="entry">
+					Rick Aldrich<br>
+
+					<a href="http://www.cs.utexas.edu/~bajaj/">
+					Chandrajit Bajaj<br>
+					</a>
+
+					<a href="http://www.cs.utexas.edu/~dana/">
+					Dana Ballard<br>
+					</a>
+
+					<a href="http://www.cps.utexas.edu/Research/Cormack/cormack.html">
+					Lawrence Cormack<br>
+					</a>
+
+					<a href="http://www.clm.utexas.edu/~fiete/">
+					Ila Fiete<br>
+					</a>
+
+					<a href="http://www.cps.utexas.edu/Research/Geisler/geisler.html">
+					Wilson Geisler<br>
+					</a>
+
+					<a href="http://www.cps.utexas.edu/Research/Hayhoe/hayhoe.html">
+					Mary Hayhoe<br>
+					</a>
+
+					<a href="http://www.utexas.edu/neuroscience/Neurobiology/AlexHuk/">
+					Alex Huk<br>
+					</a>
+
+					Dan Johnston<br>
+
+					Todd Maddox<br>
+
+					Michael Mauk<br>
+
+					<a href="http://www.cs.utexas.edu/~risto/">
+					Risto Mikkulainen<br>
+					</a>
+
+					<a href="http://pillowlab.cps.utexas.edu/~pillow/">
+					Jonathan Pillow<br>
+					</a>
+
+					Russell Poldrack<br>
+
+					Nicholas Priebe<br>
+
+					<a href="http://www.utexas.edu/neuroscience/Neurobiology/DavidRess/">
+					David Ress<br>
+					</a>
+
+					<a href="http://www.utexas.edu/neuroscience/Neurobiology/EyalSeidemann/index.html">
+					Eyal Seidemann<br>
+					</a>
+				</div>
+			</div>
+			<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end #page --> 
+</div>
+<!--#include virtual="footer-bg.shtml" -->
+<!--#include virtual="footer.shtml" -->
+</body>
+</html>
